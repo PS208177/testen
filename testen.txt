@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 grappig
+=======
+dit is aangepast in https://github.com/PS208177/testen/edit/master/testen.txt
+>>>>>>> 34374ff78259e0b7dd5fcd8897aeb3811d65aff5
+
+dit is aangepast in git hash
